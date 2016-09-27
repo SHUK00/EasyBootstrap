@@ -1,0 +1,46 @@
+#Div0 {
+    height: 70px;
+    background-color: brown;
+}
+
+#Heading1 {
+    margin: 30px;
+}
+
+#Paragraf1 {
+    margin: 30px;
+}
+
+#navbar {
+    background-color: #2196F3;
+}
+
+a {
+    color: black; 
+}
+
+.active {
+    background-color: #90CAF9;
+}
+
+#Div1 {
+    margin: 70px; 
+    margin-top: 50px;
+}
+
+td {
+    width: 25%;
+}
+
+body {
+    position: relative;
+}
+
+#link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.form-control {
+    margin: 20px 0px;
+} 
